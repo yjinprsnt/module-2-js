@@ -447,3 +447,11 @@
 //   return [array[0], array[array.length - 1]];
 // }
 
+// function splitMessage(message, delimiter) {
+//   let words;
+
+//   words = message.split(delimiter);
+
+//   return words;
+// }
+
