@@ -455,3 +455,13 @@
 //   return words;
 // }
 
+// function calculateEngravingPrice(message, pricePerWord) {
+//   const words = message.split(' ');
+
+//   return words.length * pricePerWord;
+// }
+
+// calculateEngravingPrice('JavaScript is in my blood', 10);
+// calculateEngravingPrice('JavaScript is in my blood', 20);
+// calculateEngravingPrice('Web-development is creative work', 40);
+// calculateEngravingPrice('Web-development is creative work', 20);
