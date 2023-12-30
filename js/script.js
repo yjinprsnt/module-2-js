@@ -429,3 +429,11 @@
 // const secondElement = fruits[1];
 // const lastElement = fruits[3];
 
+// const fruits = ['apple', 'plum', 'pear', 'orange'];
+
+// fruits[1] = 'peach';
+// fruits[3] = 'banana';
+
+// const fruits = ['apple', 'peach', 'pear', 'banana'];
+// const fruitsArrayLength = fruits.length;
+
