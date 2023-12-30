@@ -383,3 +383,18 @@
 // console.log(multiply(1, 2, 3, 4)); //  24
 // console.log(multiply(1, 2, 3, 4, 5)); //  120
 
+// const string = 'javascript';
+
+// for (const character of string) {
+//   console.log(character);
+// }
+
+// function checkAge(age) {
+//   if (age >= 18) {
+//     // Change this line
+//     return 'You are an adult';
+//   }
+
+//   return 'You are a minor';
+// }
+
