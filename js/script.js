@@ -501,3 +501,10 @@
 //   return allArray;
 // }
 
+// function makeArray(firstArray, secondArray, maxLength) {
+//   const allArray = firstArray.concat(secondArray);
+//   console.log(allArray);
+
+//   return allArray.slice(0, maxLength);
+// }
+
