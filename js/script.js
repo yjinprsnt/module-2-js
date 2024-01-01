@@ -491,3 +491,13 @@
 
 // const allClients = oldClients.concat(newClients);
 
+// function makeArray(firstArray, secondArray, maxLength) {
+//   const allArray = firstArray.concat(secondArray);
+//   console.log(allArray.length);
+
+//   if (allArray > maxLength) {
+//     return allArray.length;
+//   }
+//   return allArray;
+// }
+
