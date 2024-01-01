@@ -465,3 +465,10 @@
 // calculateEngravingPrice('JavaScript is in my blood', 20);
 // calculateEngravingPrice('Web-development is creative work', 40);
 // calculateEngravingPrice('Web-development is creative work', 20);
+
+// function makeStringFromArray(array, delimiter) {
+//   let string;
+//   string = array.join(delimiter);
+//   return string;
+// }
+
