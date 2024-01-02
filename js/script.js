@@ -544,3 +544,17 @@
 
 // calculateTotalPrice([12, 85, 37, 4]);
 
+// function findLongestWord(string) {
+//   const stringArr = string.split(' ');
+//   let maxLengthWord = stringArr[0];
+
+//   for (const word of stringArr) {
+//     // console.log(word);
+//     if (word.length > maxLengthWord.length) {
+//       maxLengthWord = word;
+//     }
+//   }
+//   return maxLengthWord;
+// }
+// console.log(findLongestWord('The quick brown fox jumped over the lazy dog'));
+
