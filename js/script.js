@@ -588,3 +588,21 @@
 //   return fruits.includes(fruit); // Change this line
 // }
 
+// function getCommonElements(array1, array2) {
+//   const identElements = [];
+
+//   // for (const item of array1) {
+//   //   if (array2.includes(item)) {
+//   //     identElements.push(item);
+//   //   }
+//   // }
+
+//   for (let i = 0; i < array1.length; i += 1) {
+//     if (array2.includes(array1[i])) {
+//       identElements.push(array1[i]);
+//     }
+//   }
+
+//   return identElements;
+// }
+
