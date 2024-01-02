@@ -570,3 +570,15 @@
 // createArrayOfNumbers(1, 3);
 // createArrayOfNumbers(14, 17)[(14, 15, 16, 17)];
 // createArrayOfNumbers(29, 34)[(29, 30, 31, 32, 33, 34)];
+
+// function filterArray(numbers, value) {
+//   const filterArray = [];
+
+//   for (let i = 0; i <= numbers.length; i += 1) {
+//     if (numbers[i] > value) {
+//       filterArray.push(numbers[i]);
+//     }
+//   }
+//   return filterArray;
+// }
+
