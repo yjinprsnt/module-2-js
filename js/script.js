@@ -650,3 +650,19 @@
 // const d = 12 % 7;
 // const e = 8 % 6;
 
+// function getEvenNumbers(start, end) {
+//   let evenElements = [];
+
+//   for (let i = start; i <= end; i += 1) {
+//     if (i % 2 === 0) {
+//       evenElements.push(i);
+//     }
+//   }
+//   return evenElements;
+// }
+// getEvenNumbers(2, 5);
+// getEvenNumbers(3, 11);
+// getEvenNumbers(6, 12);
+// getEvenNumbers(8, 8);
+// getEvenNumbers(7, 7);
+
