@@ -691,3 +691,13 @@
 //   // Change code above this line
 // }
 
+// function includes(array, value) {
+//   for (const element of array) {
+//     if (value === element) {
+//       return true;
+//     }
+//   }
+//   return false;
+// }
+
+// includes([1, 2, 3, 4, 5], 3);
